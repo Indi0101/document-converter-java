@@ -422,8 +422,8 @@ Las conversiones de Excel y PowerPoint utilizan automatización COM, por lo que 
 ## 📌 Estado del proyecto
 
 Proyecto completado y funcional desarrollado como aplicación de escritorio para la conversión y procesamiento de documentos.
-
 La aplicación integra **Java y Python** para ofrecer desde una única interfaz funciones de conversión de archivos, generación de vistas previas, separación de páginas y unión de documentos PDF.
+
 ----
 
 ## 👩‍💻 Autora
