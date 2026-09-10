@@ -419,31 +419,12 @@ Las conversiones de Excel y PowerPoint utilizan automatización COM, por lo que 
 
 ---
 
-## ⚠️ Estado actual
+## 📌 Estado del proyecto
 
-El proyecto es funcional y fue desarrollado como proyecto personal/de aprendizaje.
+Proyecto completado y funcional desarrollado como aplicación de escritorio para la conversión y procesamiento de documentos.
 
-Actualmente algunas rutas utilizadas para archivos temporales, vistas previas y archivos de salida están configuradas para el entorno local de desarrollo en Windows.
-
-Una mejora futura será reemplazar estas rutas por directorios dinámicos o seleccionables para que el proyecto pueda ejecutarse fácilmente en otras computadoras.
-
----
-
-## 🚀 Mejoras futuras
-
-Entre las posibles mejoras del proyecto:
-
-- Eliminar rutas locales codificadas directamente en el código.
-- Permitir seleccionar la carpeta de salida.
-- Centralizar la gestión de archivos temporales.
-- Mejorar el manejo y propagación de errores de los procesos Python.
-- Agregar pruebas unitarias.
-- Crear un instalador para Windows.
-- Detectar automáticamente las dependencias de Python.
-- Mejorar la portabilidad entre sistemas operativos.
-- Incorporar más formatos de conversión.
-
----
+La aplicación integra **Java y Python** para ofrecer desde una única interfaz funciones de conversión de archivos, generación de vistas previas, separación de páginas y unión de documentos PDF.
+----
 
 ## 👩‍💻 Autora
 
